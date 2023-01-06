@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋👋🏻👋🏼👋🏽👋🏾👋🏿( •̀ ω •́ )✧( •̀ ω •́ )✧👇👇👇👇👇👇:)
 > My resume : [this](https://app3774.acapp.acwing.com.cn/gameclub/page/resume/) 👈
 
 > My website: [this](https://app3774.acapp.acwing.com.cn/) 👈
