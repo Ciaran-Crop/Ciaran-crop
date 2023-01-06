@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img src="https://app3774.acapp.acwing.com.cn/static/gameclub/images/index/hakase.jpg" title="Ciarans" style="border-radius:10px;" width=711 height=400>
+<img src="https://app3774.acapp.acwing.com.cn/static/gameclub/images/index/hakase.jpg" title="Ciarans" style="border-radius:10px;" width=355 height=200>
 
 ### :tada: About Me
 
