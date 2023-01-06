@@ -17,7 +17,7 @@
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" /> y15979262351@gmail.com / ciarans@qq.com
 - :ghost: You can also visit [my website](https://app3774.acapp.acwing.com.cn/)
 - I'm looking for a job like:	
-  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/python.svg" /> Python development engineer or
+  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/python.svg" /> Python Development Engineer or
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/webrtc.svg" /> Web Engineer or		
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/gamejolt.svg" /> Game Development Engineer or
   - :gift_heart: other ...
