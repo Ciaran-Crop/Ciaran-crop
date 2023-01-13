@@ -12,8 +12,8 @@
 
 ### :tada: About Me
 
-- 🌱 I’m currently learning: Python crawl <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/python.svg" />
-- :christmas_tree: I will study in the future: Unity/Flutter <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/unity.svg" /> <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/flutter.svg" />
+- 🌱 I’m currently learning: Unity <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/unity.svg" />
+- :christmas_tree: I will study in the future: Flutter/uniapp  <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/flutter.svg" />
 - 📫 How to reach me: 
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/tencentqq.svg" /> 2297484437
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" /> y15979262351@gmail.com / ciarans@qq.com
