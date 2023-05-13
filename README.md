@@ -1,7 +1,7 @@
 ### Hi this way 👋👋🏻👋🏼👋🏽👋🏾👋🏿( •̀ ω •́ )✧( •̀ ω •́ )✧👇👇👇👇👇👇:)
 <br>
 
-> My resume : [this](https://app3774.acapp.acwing.com.cn/gameclub/page/resume/) 👈
+<!-- > My resume : [this](https://app3774.acapp.acwing.com.cn/gameclub/page/resume/) 👈 -->
 
 > My website: [this](https://app3774.acapp.acwing.com.cn/) 👈
 
@@ -10,7 +10,7 @@
 
 <img src="https://app3774.acapp.acwing.com.cn/static/gameclub/images/index/hakase.jpg" title="Ciarans" style="border-radius:10px;" width=533 height=300>
 
-### :tada: About Me
+<!-- ### :tada: About Me
 
 - 🌱 I’m currently learning: Unity <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/unity.svg" />
 - :christmas_tree: I will study in the future: Flutter/uniapp  <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/flutter.svg" />
@@ -22,7 +22,7 @@
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/python.svg" /> Python Development Engineer or
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/webrtc.svg" /> Web Engineer or		
   - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/gamejolt.svg" /> Game Development Engineer or
-  - :gift_heart: other ...
+  - :gift_heart: other ... -->
 
 ### :octocat: Language
 
