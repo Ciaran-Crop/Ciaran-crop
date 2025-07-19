@@ -1,28 +1,13 @@
 ### Hi this way 👋👋🏻👋🏼👋🏽👋🏾👋🏿( •̀ ω •́ )✧( •̀ ω •́ )✧👇👇👇👇👇👇:)
 <br>
 
-<!-- > My resume : [this](https://app3774.acapp.acwing.com.cn/gameclub/page/resume/) 👈 -->
-
-> My website: [this](https://app3774.acapp.acwing.com.cn/) 👈
+> My website: [this](xxx) 👈
 
 <br>
 <br>
 
-<img src="https://app3774.acapp.acwing.com.cn/static/gameclub/images/index/hakase.jpg" title="Ciarans" style="border-radius:10px;" width=533 height=300>
+<img src="xxx" title="Ciarans" style="border-radius:10px;" width=533 height=300>
 
-<!-- ### :tada: About Me
-
-- 🌱 I’m currently learning: Unity <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/unity.svg" />
-- :christmas_tree: I will study in the future: Flutter/uniapp  <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/flutter.svg" />
-- 📫 How to reach me: 
-  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/tencentqq.svg" /> 2297484437
-  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" /> y15979262351@gmail.com / ciarans@qq.com
-- :ghost: You can also visit [my website](https://app3774.acapp.acwing.com.cn/)
-- :computer: I'm looking for a job like:	
-  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/python.svg" /> Python Development Engineer or
-  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/webrtc.svg" /> Web Engineer or		
-  - <img height="16" width="16" src="https://unpkg.com/simple-icons@v8/icons/gamejolt.svg" /> Game Development Engineer or
-  - :gift_heart: other ... -->
 
 ### :octocat: Language
 
@@ -37,18 +22,3 @@
     <img src="http://github-readme-stats.vercel.app/api/top-langs/?username=Ciaran-crop&layout=compact&hide=go">
   </a>
 </div>
-
-<!--
-**Ciaran-crop/Ciaran-crop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
